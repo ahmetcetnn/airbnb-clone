@@ -1,5 +1,5 @@
 import React from "react";
-import airbnbhero from "../img/airbnbhero.png";
+import airbnbhero from "../components/img/airbnbhero.png";
 
 function Hero() {
   return (
