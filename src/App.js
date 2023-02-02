@@ -38,6 +38,7 @@ function App() {
           price={87}
         />
       </section>
+   
     </div>
   );
 }
